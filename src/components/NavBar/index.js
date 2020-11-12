@@ -22,7 +22,7 @@ const NavBar = () => {
         <nav className='navbar is-fixed-top' aria-label='main navigation'>
           <div className='navbar-brand'>
             <Link to='/' className='navbar-item'>
-              <strong>Gatsby Starter Business</strong>
+              <strong>Data Consulting</strong>
             </Link>
             <button
               className={`button navbar-burger ${active ? 'is-active' : ''}`}
