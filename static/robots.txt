@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: */admin/
-Disallow: */tags/
+Disallow: *
 
 sitemap: https://gatsby-starter-business.netlify.com/sitemap.xml
